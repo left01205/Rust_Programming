@@ -8,7 +8,6 @@ Welcome to my Rust project repository! This repository contains a Rust applicati
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -16,11 +15,6 @@ Welcome to my Rust project repository! This repository contains a Rust applicati
 ## About
 
 This repository is created with Rust. It Contains programs which I made during my time learning rust.
-## Features
-
-- **Feature 1**: [Description of feature 1, e.g., "Allows for file copying and moving"]
-- **Feature 2**: [Description of feature 2, e.g., "Provides detailed statistics and analytics"]
-- **Feature 3**: [Description of feature 3, e.g., "Supports multiple file formats and configurations"]
 
 ## Installation
 
